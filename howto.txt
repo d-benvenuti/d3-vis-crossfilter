@@ -1,0 +1,3 @@
+python -m http.server
+
+porta 8000/nome html
